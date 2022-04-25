@@ -1,4 +1,4 @@
-<h1 align="center">Projeto: Clone do Instagram usando: Html5, Css3 e Bootstrap .</h1>
+<h1 align="center">Projeto: Clone do Instagram.</h1>
 
 <p align="left">
 </p>
