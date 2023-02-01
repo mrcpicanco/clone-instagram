@@ -1,4 +1,4 @@
-<h1 align="center">Projeto: Clone do Instagram.</h1>
+<h1 align="center">Projeto: Clone do Instagram: Html, Css e um pouquinho de JavaScript.</h1>
 
 <p align="left">
 </p>
